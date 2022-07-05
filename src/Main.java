@@ -6,7 +6,5 @@ public class Main {
         APIhandler API = new APIhandler();
         System.out.println(API.getQuote("HSBA.L"));
 
-
-
     }
 }

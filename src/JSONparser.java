@@ -1,6 +1,6 @@
-
-
 public class JSONparser {
+
+
     APIhandler api = new APIhandler();
 
     public int[] getBidAsk(String Stock){
@@ -8,4 +8,5 @@ public class JSONparser {
         //TODO: make json parser
 
     }
+
 }
